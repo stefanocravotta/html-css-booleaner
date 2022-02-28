@@ -1,0 +1,45 @@
+
+body{
+margin: 0;
+}
+
+
+main{
+  padding: 10px;
+}
+
+.logo{
+  height: 30px;
+  margin-top: 70px;
+}
+
+header{
+  background-image: url(../img/pattern.png);
+  background-size: contain;
+  background-color: rgb(82, 162, 252);  
+}
+
+
+#azzurro{
+  color: rgb(75, 188, 232);
+}
+
+.grigio-chiaro{
+  color: rgb(140, 140, 140);
+}
+
+.testo-evidenziato{
+  background-color: yellow;
+}
+
+.grande{
+  width: 50%;
+}
+
+thead{
+  background-color: rgb(44, 170, 226);
+}
+
+.azzurro{
+  background-color:  rgb(179, 229, 241);
+}
