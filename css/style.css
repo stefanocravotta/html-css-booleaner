@@ -8,6 +8,10 @@ main{
   padding: 10px;
 }
 
+footer{
+  padding: 10px;
+}
+
 .logo{
   height: 30px;
   margin-top: 70px;
@@ -42,4 +46,21 @@ thead{
 
 .azzurro{
   background-color:  rgb(179, 229, 241);
+}
+.img{
+  height: 200px;
+  width: 300px;
+  background-image: url(../img/monitor.jpg);
+  background-size: cover;
+}
+.img2{
+  height: 200px;
+  width: 300px;
+  background-image: url(../img/graph.jpg);
+  background-size: cover;
+}
+
+footer{
+  color: white;
+  font-size: 2rem;
 }
