@@ -60,7 +60,7 @@ thead{
   background-size: cover;
 }
 
-footer{
+footer>div{
   color: white;
   font-size: 2rem;
 }
